@@ -1,9 +1,10 @@
 - 👋 Hi, I’m Luis Gonzalez!
 - 👀 I’m interested in all things related to software engineering.
 - 🎓 I’m currently enrolled at WSU-V for a bachelors in computer science.
-- 👓 Employed by Columbia Machine Inc. I am an IT Help Desk Tech who is also contriubuting to their software projects. 
+- 👓 Employed by Columbia Machine Inc. Programmer/Analyst
 - 🌱 Skills
   - C# with ASP.NET Core
+  - VB.NET
   - Flutter & Dart
   - Python
  
